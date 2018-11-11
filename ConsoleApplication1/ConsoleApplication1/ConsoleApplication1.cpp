@@ -43,7 +43,7 @@ int main()
 	for (int currentIdx = 0; currentIdx < n; currentIdx++) {
 		cout << "generatedArray[" << currentIdx << "] = " << generatedArray[currentIdx] << endl;
 	}
-	cout << "Good luck,have fun"<<endl;
+	cout << "Good luck"<<endl;
 	system("pause");
 	return 0;
 }
